@@ -1,0 +1,2 @@
+# learningGitNow
+exercises
